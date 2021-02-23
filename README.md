@@ -1,4 +1,4 @@
-# Hugo Serif Theme
+# Welcome to Dragontopia
 
 Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
